@@ -1,0 +1,33 @@
+_repo: A-Dream-of-John-Ball--and-A-King-s-Lesson_357
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+description: This 1888 novel about the English Peasant's Revolt of 1381 and its leader,
+  John Ball, is not historical fiction; rather, it is a time-travel fantasy in which
+  the modern and medieval worlds collide. Morris casts the medieval realm in a golden,
+  almost utopian light.
+gutenberg_issued: '1995-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '357'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tyler''s Insurrection, 1381 -- Fiction'
+- !lcsh 'Ball, John, d. 1381 -- Fiction'
+- !lcsh 'Peasant uprisings -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Matthias I, King of Hungary, 1443-1490 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: A Dream of John Ball; and, A King's Lesson
+url: http://www.gutenberg.org/ebooks/357
